@@ -2,7 +2,18 @@ body {
     font-family: 'Arial', 'Helvetica', sans-serif;
 }
 
-ul {
+#title {
+    text-decoration: underline wavy brown;
+}
+
+a {
+    font-family: ;
     font-size: 20px;
-    align-self: center;
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown
+
 }
